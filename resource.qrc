@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/aed2bd5d22cf4c7044ff0072c6737d86_script-library_512-512.png</file>
+        <file>picture/download.png</file>
+        <file>picture/download.jpeg</file>
+        <file>picture/images.jpeg</file>
+        <file>picture/location.png</file>
+        <file>picture/player.webp</file>
+        <file>picture/pusheen.png</file>
+        <file>picture/grass.jpg</file>
+        <file>picture/brick.jpg</file>
+        <file>picture/destination.jpg</file>
+    </qresource>
+</RCC>
